@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Irfan Nabil Makarim
 ===========================================================================================================================================
+<div align="center">
+  <img src="https://programing-gifs.vercel.app/" alt="Programming Gif" style="max-width: 100%; height: auto;">
+</div><br>
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
-<a href='https://github.com/samadpls/Programing-Gifs'>
-<img align='right' src='https://programing-gifs.vercel.app/' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact<br>
 
 
 
