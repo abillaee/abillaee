@@ -71,12 +71,3 @@ You can add an animated typing badge for a futuristic look:
 
 ---
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abillaee&theme=apprentice&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abillaee&theme=apprentice&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abillaee&theme=apprentice&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=abillaee&icon=9&color=6)](https://visitcount.itsvg.in)
